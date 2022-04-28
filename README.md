@@ -1,5 +1,3 @@
-# My personal repository
-## Hallo there 
-# I am Sara from Germany
-# I am a programming student
-# I working with Html, Css, JavaScript, React, Bootstrop
+A litle more about me
+const SaraEghtedari = {pronouns: "He" & "Hey" & "Moin",
+code :[
